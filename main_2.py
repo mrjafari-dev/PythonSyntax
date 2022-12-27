@@ -26,4 +26,4 @@ print(selfish[::2])
 print(selfish[-1])
 print(selfish[::-1])
 
-#start in 19
+
