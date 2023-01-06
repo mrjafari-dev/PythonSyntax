@@ -30,3 +30,10 @@ else:
 
 if is_licenced and is_old:print("two value is true")
 
+if is_old:
+    print("Sdfsfs")
+elif is_licenced:
+    print("dsfdcd")
+else :
+    print("dsvdfvdfvs")
+    
