@@ -33,5 +33,17 @@ print('-----------------------------')
 for key , value in user.items():
     print(key , value)
 
+for item in range(0,100):
+    print(item)
 
+for item in range(10,20,3):
+    print(item)
+
+
+for item in range(10 ,0 ,-1):
+    print(item)
+
+
+for item in range(20):
+    print(list(range(5)))
 #start in 13
