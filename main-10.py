@@ -30,3 +30,17 @@ for key,items in enumerate(list(range(100))):
 
 
 
+#while loop
+
+i = 1
+while i<50:
+    print(i)
+    i +=1
+else :
+    print("the end")
+
+
+while True :
+    respons = input('say something :')
+    if respons == 'by':
+        break
