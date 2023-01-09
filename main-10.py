@@ -44,3 +44,20 @@ while True :
     respons = input('say something :')
     if respons == 'by':
         break
+
+
+#Show Christmas Tee ^_^
+
+picture = [
+    [0,0,0,1,0,0,0],
+    [0,0,1,1,1,0,0],
+    [0,1,1,1,1,1,0],
+    [0,0,0,1,0,0,0],
+    [0,0,0,1,0,0,0]
+]
+
+for items in picture:
+    for value in items:
+        if(value == 1):print('*',end='')
+        else : print(' ',end = '')
+    print('')
