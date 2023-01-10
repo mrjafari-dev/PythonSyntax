@@ -16,4 +16,15 @@ for x in mylist:
 print(duplicate)
 print("with LOOP : ",mylist)
 
+#funcation in python
 
+def helloWorld():
+    print("hello World")
+
+helloWorld()
+
+def say_helloo(name , emoji):
+    print(f'helllooooo{name}{emoji}')
+
+
+say_helloo("moahhamdreza", "🥰")

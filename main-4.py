@@ -15,6 +15,7 @@ print(matrix[1][2])
 list = [2,1,2,3,6,7]
 newList = [6,2,2,2,2]
 list.insert(6, 100)
+list.append(5)
 list.extend(newList)
 print(list)
 print(newList)
