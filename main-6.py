@@ -59,7 +59,7 @@ print(tpl)
 
 #set in phyton remove duplicate values 
 
-setValue = {1,2,3,4,5,6,6,6,}
+setValue = {1,3,2,4,5,6,6,6,}
 testList=[1,2,3,4,5,5,5,5]
 print(setValue)
 print(set(testList))

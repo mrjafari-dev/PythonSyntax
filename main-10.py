@@ -61,3 +61,6 @@ for items in picture:
         if(value == 1):print('*',end='')
         else : print(' ',end = '')
     print('')
+
+
+#start in 20 
