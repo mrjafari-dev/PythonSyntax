@@ -1,2 +1,1 @@
-
-list.sort()
+o
