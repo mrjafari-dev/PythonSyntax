@@ -43,7 +43,7 @@ typeOfvar = type(strnum)
 #print(typeOfvar)
 
 weather = "\t it\'s \"kind of\" sunny \n hope have god day!"
-#print(weather)
+print(weather)
 
 
 #format string
